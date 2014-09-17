@@ -1,0 +1,32 @@
+{
+  "name": "Megrim",
+  "designer": "Daniel Johnson",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 27044,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 500,
+      "filename": "Megrim-TTF.ttf",
+      "postScriptName": "Megrim",
+      "fullName": "Megrim",
+      "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License."
+    },
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 500,
+      "filename": "Megrim-Medium.ttf",
+      "postScriptName": "Megrim",
+      "fullName": "Megrim",
+      "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-05-04"
+}
